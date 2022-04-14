@@ -1,5 +1,10 @@
 # NEN Controlled Vocabulary
 
-[International Harmonized Stage Codes](https://www.iso.org/stage-codes.html) gives an overview of the stages in the standards development process.
+The NEN controlled vocabulary provide a way to organize knowledge for subsequent retrieval.
+It contains
+- [NEN terms and definitions](http://35.157.143.22/skosmos/vocab/nl/)
+- [NEN standards](http://35.157.143.22/skosmos/docs/nl/)
+- [NEN committees](http://35.157.143.22/skosmos/committee/nl/)
 
-The classification system is modeled using [Simple Knowledge Organization System](https://www.w3.org/2004/02/skos/) (SKOS).
+License: [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
